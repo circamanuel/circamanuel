@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Manuel Vacirca</h1>
-  <h3>Junior Developer | Zürich & Remote | Looking for my first role</h3>
+  <h3>Junior C# & Java Developer | Zürich & Remote | Ready to contribute</h3>
 </div>
 
 <p align="center">
@@ -17,9 +17,13 @@
 
 ## About Me
 
-I'm a motivated junior developer with a passion for building clean, functional applications. Currently diving deep into **C# & ASP.NET** while maintaining strong **Java** fundamentals. I believe in learning by doing – every repo here represents hands-on practice and real problem-solving.
+Junior developer with a passion for **clean, maintainable code**. 
 
-What drives me: Turning concepts into working code, continuous improvement, and finding elegant solutions to complex problems.
+I've built my foundation through **hands-on practice** – from C# console apps to RESTful APIs with ASP.NET Core, and object-oriented solutions in Java. Every project in my repos represents **real problem-solving**, not just tutorials.
+
+**My approach:** Learn by building. Break things. Fix them. Make them better.
+
+Currently deep-diving into **C# & ASP.NET** while keeping my **Java** skills sharp. I believe the best code is code that **other developers enjoy reading**.
 
 <br>
 
@@ -49,54 +53,59 @@ What drives me: Turning concepts into working code, continuous improvement, and 
 
 ## Featured Projects
 
-**[MasteringCSharp](https://github.com/circamanuel/MasteringCSharp)**  
-Building a solid C# foundation through practical exercises and mini-projects. Focus on clean code, SOLID principles, and best practices.
+**[MasteringCSharp](https://github.com/circamanuel/MasteringCSharp)** – C# Deep Dive  
+From basic syntax to **design patterns** and **SOLID principles**. Includes a working CLI task manager and file processor.
 
-**[masteringASP.NET](https://github.com/circamanuel/masteringASP.NET)**  
-Learning web development with ASP.NET Core – building RESTful APIs, implementing CRUD operations, and experimenting with deployment.
+**[masteringASP.NET](https://github.com/circamanuel/masteringASP.NET)** – Web API Development  
+Building RESTful APIs with **Entity Framework Core** and **authentication**. Currently experimenting with deployment.
 
-**[JavaProjects](https://github.com/circamanuel/JavaProjects)**  
-Strengthening OOP fundamentals, data structures, and algorithms through hands-on Java development.
+**[JavaProjects](https://github.com/circamanuel/JavaProjects)** – Algorithms & Data Structures  
+Hands-on implementations: binary search trees, sorting algorithms, and custom collections.
 
-> Currently streamlining my GitHub from 100+ learning repos to focused, polished projects. Constructive feedback is always welcome.
+> **Note:** I'm currently consolidating 100+ learning repos into these focused projects. Quality over quantity. Feedback from experienced devs always welcome! 🙏
 
 <br>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=circamanuel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=circamanuel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=circamanuel&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=300" alt="Top Languages" height="170" />
 </p>
 
 <br>
 
-## What I'm Looking For
+## What I Bring to Your Team
 
-I'm actively seeking my first **Junior Developer role** in:
-- C# / ASP.NET Core development
-- Java / Spring Boot backend positions  
-- Full-Stack roles with modern frameworks
-- Location: Zürich or Remote
+I'm looking for a **Junior Developer role** where I can:
+- Contribute to real products while learning from experienced developers
+- Write clean, maintainable code in **C# / ASP.NET Core** or **Java / Spring Boot**
+- Grow into full-stack development with modern frameworks
+- **Location:** Zürich or Remote
 
-What I bring:
-- Strong eagerness to learn and adapt
-- Clean code mindset and attention to detail
-- Collaborative spirit and good communication
-- Real-world project experience through self-directed learning
+**What makes me different:**
+- I **actually build things** – not just consume tutorials
+- Strong fundamentals in OOP, algorithms, and design patterns
+- Self-directed learner who doesn't wait to be told what to do
+- Communicative team player who asks good questions
+
+**Available:** Immediate start or flexible based on your needs
 
 <br>
 
 ## Let's Connect
 
-I'm always open to:
-- Code reviews and constructive feedback
-- Collaboration on interesting projects
-- Job opportunities and networking
-- Coffee chats about tech and development
+**I'd love to hear from you if:**
+- You're looking for a motivated junior developer
+- You want to give feedback on my code (I genuinely appreciate it!)
+- You're working on interesting projects and need an extra pair of hands
+- You just want to chat about tech over coffee ☕
+
+**Quick response guaranteed** – I check my inbox daily.
 
 <p align="center">
-  <a href="mailto:manuel.vacirca@gmail.com">manuel.vacirca@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/manuel-vacirca-7643472b3/">LinkedIn</a>
+  📧 <a href="mailto:manuel.vacirca@gmail.com">manuel.vacirca@gmail.com</a> • 
+  💼 <a href="https://www.linkedin.com/in/manuel-vacirca-7643472b3/">LinkedIn</a>
 </p>
 
 <br>
